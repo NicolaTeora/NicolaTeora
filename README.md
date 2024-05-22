@@ -1,7 +1,7 @@
 # Hi 👋 I'm Nicola T.
 
 ![esCr](https://github.com/NicolaTeora/NicolaTeora/assets/144935713/c6543e80-e668-4a73-b532-16831a4ba8a3)
-<img src="[image.png](https://github.com/NicolaTeora/NicolaTeora/assets/144935713/c6543e80-e668-4a73-b532-16831a4ba8a3)" width="200" height="100">
+<img src="(https://github.com/NicolaTeora/NicolaTeora/assets/144935713/c6543e80-e668-4a73-b532-16831a4ba8a3)" width="200" height="100">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
